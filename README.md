@@ -5,7 +5,17 @@ Thus I decided to create this much needed JavaScript library.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This library contains many functions that will spare you a whole lot of time when creating JavaScript applications.
+
+### console.log()
+
+The ```console.log(value);``` method is simply shortened to ```cl(value);```
+
+### document.querySelector()
+
+The block of code ```var myElement = document.querySelector('.myElement');``` will be shortened by a lot;
+```var myElement = dq('.myElement');```
+Is that shorter, or what?
 
 ## Versioning
 
