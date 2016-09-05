@@ -14,7 +14,9 @@ The ```console.log(value);``` method is simply shortened to ```cl(value);```
 ### document.querySelector()
 
 The block of code ```var myElement = document.querySelector('.myElement');``` will be shortened by a lot;
-```var myElement = dq('.myElement');```
+```
+var myElement = dq('.myElement');
+```
 Is that shorter, or what?
 
 ## Versioning
