@@ -3,13 +3,16 @@
 I think every JS developer can agree; there is a lot of typing involved in creating an app.
 Thus I decided to create this much needed JavaScript library.
 
+
 ## Getting Started
 
 This library contains many functions that will spare you a whole lot of time when creating JavaScript applications.
 
+
 ### console.log()
 
 The ```console.log(value);``` method is simply shortened to ```cl(value);```
+
 
 ### document.querySelector()
 
@@ -18,6 +21,7 @@ The block of code ```var myElement = document.querySelector('.myElement');``` wi
 var myElement = dq('.myElement');
 ```
 Is that shorter, or what?
+
 
 ## Versioning
 
