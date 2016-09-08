@@ -1,4 +1,4 @@
-# Snippette.js
+# Dotmin.js
 
 I think every JS developer can agree; there is a lot of typing involved in creating an app.
 Thus I decided to create this much needed JavaScript library.
@@ -10,11 +10,11 @@ Done? Great.
 Now you need to add the script to your application.
 
 ```
-<script src="path/to/file/snippette.js"></script>
+<script src="path/to/file/dotmin.js"></script>
 
 // Other scripts here
 ```
-Make sure you put the snippette script BEFORE other script tags.
+Make sure you put the dotmin script BEFORE other script tags.
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Is that shorter, or what?
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sifferhans/snippette/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sifferhans/dotmin/tags).
 
 ## Authors
 
